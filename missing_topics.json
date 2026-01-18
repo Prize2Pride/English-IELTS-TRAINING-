@@ -1,0 +1,1826 @@
+[
+  {
+    "num": 8,
+    "name": "Mental Health Awareness"
+  },
+  {
+    "num": 20,
+    "name": "Biodiversity Loss"
+  },
+  {
+    "num": 31,
+    "name": "Aging Population"
+  },
+  {
+    "num": 36,
+    "name": "Women in Leadership"
+  },
+  {
+    "num": 43,
+    "name": "Capital Punishment"
+  },
+  {
+    "num": 46,
+    "name": "Alcohol Consumption"
+  },
+  {
+    "num": 51,
+    "name": "Work-Life Balance"
+  },
+  {
+    "num": 52,
+    "name": "Burnout and Stress"
+  },
+  {
+    "num": 53,
+    "name": "Employee Wellness Programs"
+  },
+  {
+    "num": 54,
+    "name": "Minimum Wage Debates"
+  },
+  {
+    "num": 55,
+    "name": "Universal Basic Income"
+  },
+  {
+    "num": 56,
+    "name": "Wealth Inequality"
+  },
+  {
+    "num": 57,
+    "name": "Tax Systems"
+  },
+  {
+    "num": 58,
+    "name": "Cryptocurrency"
+  },
+  {
+    "num": 59,
+    "name": "Stock Market Investing"
+  },
+  {
+    "num": 60,
+    "name": "Real Estate Markets"
+  },
+  {
+    "num": 61,
+    "name": "Globalization Effects"
+  },
+  {
+    "num": 62,
+    "name": "International Trade"
+  },
+  {
+    "num": 63,
+    "name": "Economic Sanctions"
+  },
+  {
+    "num": 64,
+    "name": "Small Business Support"
+  },
+  {
+    "num": 65,
+    "name": "Entrepreneurship"
+  },
+  {
+    "num": 66,
+    "name": "Startup Culture"
+  },
+  {
+    "num": 67,
+    "name": "Corporate Social Responsibility"
+  },
+  {
+    "num": 68,
+    "name": "Ethical Consumerism"
+  },
+  {
+    "num": 69,
+    "name": "Fair Trade Products"
+  },
+  {
+    "num": 70,
+    "name": "Consumer Rights"
+  },
+  {
+    "num": 71,
+    "name": "Advertising Ethics"
+  },
+  {
+    "num": 72,
+    "name": "Influencer Marketing"
+  },
+  {
+    "num": 73,
+    "name": "Brand Loyalty"
+  },
+  {
+    "num": 74,
+    "name": "Customer Service Excellence"
+  },
+  {
+    "num": 75,
+    "name": "E-commerce Growth"
+  },
+  {
+    "num": 76,
+    "name": "Retail Industry Changes"
+  },
+  {
+    "num": 77,
+    "name": "Shopping Malls Decline"
+  },
+  {
+    "num": 78,
+    "name": "Subscription Services"
+  },
+  {
+    "num": 79,
+    "name": "Sharing Economy"
+  },
+  {
+    "num": 80,
+    "name": "Gig Economy"
+  },
+  {
+    "num": 81,
+    "name": "Freelancing Trends"
+  },
+  {
+    "num": 82,
+    "name": "Career Development"
+  },
+  {
+    "num": 83,
+    "name": "Lifelong Learning"
+  },
+  {
+    "num": 84,
+    "name": "Vocational Training"
+  },
+  {
+    "num": 85,
+    "name": "University Education Value"
+  },
+  {
+    "num": 86,
+    "name": "Student Debt Crisis"
+  },
+  {
+    "num": 87,
+    "name": "Scholarship Programs"
+  },
+  {
+    "num": 88,
+    "name": "Study Abroad Benefits"
+  },
+  {
+    "num": 89,
+    "name": "Language Learning"
+  },
+  {
+    "num": 90,
+    "name": "Bilingual Education"
+  },
+  {
+    "num": 91,
+    "name": "Early Childhood Education"
+  },
+  {
+    "num": 92,
+    "name": "Homeschooling"
+  },
+  {
+    "num": 93,
+    "name": "Standardized Testing"
+  },
+  {
+    "num": 94,
+    "name": "Teacher Training"
+  },
+  {
+    "num": 95,
+    "name": "Classroom Technology"
+  },
+  {
+    "num": 96,
+    "name": "Digital Literacy"
+  },
+  {
+    "num": 97,
+    "name": "Critical Thinking Skills"
+  },
+  {
+    "num": 98,
+    "name": "Creativity in Education"
+  },
+  {
+    "num": 99,
+    "name": "STEM Education"
+  },
+  {
+    "num": 100,
+    "name": "Arts Education"
+  },
+  {
+    "num": 101,
+    "name": "Physical Education"
+  },
+  {
+    "num": 102,
+    "name": "School Uniforms"
+  },
+  {
+    "num": 103,
+    "name": "Bullying Prevention"
+  },
+  {
+    "num": 104,
+    "name": "School Safety"
+  },
+  {
+    "num": 105,
+    "name": "Inclusive Education"
+  },
+  {
+    "num": 106,
+    "name": "Special Needs Education"
+  },
+  {
+    "num": 107,
+    "name": "Gifted Student Programs"
+  },
+  {
+    "num": 108,
+    "name": "Gap Year Benefits"
+  },
+  {
+    "num": 109,
+    "name": "Internship Programs"
+  },
+  {
+    "num": 110,
+    "name": "Mentorship Importance"
+  },
+  {
+    "num": 111,
+    "name": "Networking Skills"
+  },
+  {
+    "num": 112,
+    "name": "Public Speaking"
+  },
+  {
+    "num": 113,
+    "name": "Leadership Development"
+  },
+  {
+    "num": 114,
+    "name": "Team Building"
+  },
+  {
+    "num": 115,
+    "name": "Conflict Resolution"
+  },
+  {
+    "num": 116,
+    "name": "Negotiation Skills"
+  },
+  {
+    "num": 117,
+    "name": "Time Management"
+  },
+  {
+    "num": 118,
+    "name": "Goal Setting"
+  },
+  {
+    "num": 119,
+    "name": "Personal Finance Management"
+  },
+  {
+    "num": 120,
+    "name": "Retirement Planning"
+  },
+  {
+    "num": 121,
+    "name": "Insurance Importance"
+  },
+  {
+    "num": 122,
+    "name": "Estate Planning"
+  },
+  {
+    "num": 123,
+    "name": "Charitable Giving"
+  },
+  {
+    "num": 124,
+    "name": "Volunteering Benefits"
+  },
+  {
+    "num": 125,
+    "name": "Community Service"
+  },
+  {
+    "num": 126,
+    "name": "Civic Engagement"
+  },
+  {
+    "num": 127,
+    "name": "Voting Rights"
+  },
+  {
+    "num": 128,
+    "name": "Political Participation"
+  },
+  {
+    "num": 129,
+    "name": "Democracy and Governance"
+  },
+  {
+    "num": 130,
+    "name": "Freedom of Speech"
+  },
+  {
+    "num": 131,
+    "name": "Press Freedom"
+  },
+  {
+    "num": 132,
+    "name": "Censorship Issues"
+  },
+  {
+    "num": 133,
+    "name": "Fake News and Misinformation"
+  },
+  {
+    "num": 134,
+    "name": "Media Literacy"
+  },
+  {
+    "num": 135,
+    "name": "Journalism Ethics"
+  },
+  {
+    "num": 136,
+    "name": "Documentary Films"
+  },
+  {
+    "num": 137,
+    "name": "Film Industry"
+  },
+  {
+    "num": 138,
+    "name": "Music Industry Changes"
+  },
+  {
+    "num": 139,
+    "name": "Streaming Services"
+  },
+  {
+    "num": 140,
+    "name": "Live Entertainment"
+  },
+  {
+    "num": 141,
+    "name": "Theater and Performing Arts"
+  },
+  {
+    "num": 142,
+    "name": "Museums and Galleries"
+  },
+  {
+    "num": 143,
+    "name": "Cultural Heritage Preservation"
+  },
+  {
+    "num": 144,
+    "name": "Historical Monuments"
+  },
+  {
+    "num": 145,
+    "name": "Archaeology Discoveries"
+  },
+  {
+    "num": 146,
+    "name": "Ancient Civilizations"
+  },
+  {
+    "num": 147,
+    "name": "World History Education"
+  },
+  {
+    "num": 148,
+    "name": "Geography Importance"
+  },
+  {
+    "num": 149,
+    "name": "Map Reading Skills"
+  },
+  {
+    "num": 150,
+    "name": "Travel and Tourism"
+  },
+  {
+    "num": 151,
+    "name": "Ecotourism"
+  },
+  {
+    "num": 152,
+    "name": "Adventure Tourism"
+  },
+  {
+    "num": 153,
+    "name": "Cultural Tourism"
+  },
+  {
+    "num": 154,
+    "name": "Medical Tourism"
+  },
+  {
+    "num": 155,
+    "name": "Business Travel"
+  },
+  {
+    "num": 156,
+    "name": "Budget Travel Tips"
+  },
+  {
+    "num": 157,
+    "name": "Solo Travel"
+  },
+  {
+    "num": 158,
+    "name": "Family Vacations"
+  },
+  {
+    "num": 159,
+    "name": "Cruise Ship Industry"
+  },
+  {
+    "num": 160,
+    "name": "Aviation Industry"
+  },
+  {
+    "num": 161,
+    "name": "High-Speed Rail"
+  },
+  {
+    "num": 162,
+    "name": "Public Transportation"
+  },
+  {
+    "num": 163,
+    "name": "Cycling Infrastructure"
+  },
+  {
+    "num": 164,
+    "name": "Pedestrian Safety"
+  },
+  {
+    "num": 165,
+    "name": "Traffic Congestion"
+  },
+  {
+    "num": 166,
+    "name": "Parking Solutions"
+  },
+  {
+    "num": 167,
+    "name": "Smart Cities"
+  },
+  {
+    "num": 168,
+    "name": "Green Buildings"
+  },
+  {
+    "num": 169,
+    "name": "Architecture Trends"
+  },
+  {
+    "num": 170,
+    "name": "Interior Design"
+  },
+  {
+    "num": 171,
+    "name": "Minimalist Living"
+  },
+  {
+    "num": 172,
+    "name": "Tiny House Movement"
+  },
+  {
+    "num": 173,
+    "name": "Co-living Spaces"
+  },
+  {
+    "num": 174,
+    "name": "Housing Affordability"
+  },
+  {
+    "num": 175,
+    "name": "Homelessness Solutions"
+  },
+  {
+    "num": 176,
+    "name": "Urban Renewal"
+  },
+  {
+    "num": 177,
+    "name": "Rural Development"
+  },
+  {
+    "num": 178,
+    "name": "Agricultural Technology"
+  },
+  {
+    "num": 179,
+    "name": "Precision Farming"
+  },
+  {
+    "num": 180,
+    "name": "Vertical Farming"
+  },
+  {
+    "num": 181,
+    "name": "Hydroponics"
+  },
+  {
+    "num": 182,
+    "name": "Food Waste Reduction"
+  },
+  {
+    "num": 183,
+    "name": "Composting Benefits"
+  },
+  {
+    "num": 184,
+    "name": "Recycling Programs"
+  },
+  {
+    "num": 185,
+    "name": "Zero Waste Lifestyle"
+  },
+  {
+    "num": 186,
+    "name": "Circular Economy"
+  },
+  {
+    "num": 187,
+    "name": "Carbon Footprint Reduction"
+  },
+  {
+    "num": 188,
+    "name": "Carbon Offsetting"
+  },
+  {
+    "num": 189,
+    "name": "Green Transportation"
+  },
+  {
+    "num": 190,
+    "name": "Solar Power"
+  },
+  {
+    "num": 191,
+    "name": "Wind Energy"
+  },
+  {
+    "num": 192,
+    "name": "Hydroelectric Power"
+  },
+  {
+    "num": 193,
+    "name": "Nuclear Energy Debate"
+  },
+  {
+    "num": 194,
+    "name": "Geothermal Energy"
+  },
+  {
+    "num": 195,
+    "name": "Biofuels"
+  },
+  {
+    "num": 196,
+    "name": "Energy Storage Solutions"
+  },
+  {
+    "num": 197,
+    "name": "Smart Grid Technology"
+  },
+  {
+    "num": 198,
+    "name": "Energy Efficiency"
+  },
+  {
+    "num": 199,
+    "name": "Home Insulation"
+  },
+  {
+    "num": 200,
+    "name": "LED Lighting"
+  },
+  {
+    "num": 201,
+    "name": "Water Purification"
+  },
+  {
+    "num": 202,
+    "name": "Desalination Technology"
+  },
+  {
+    "num": 203,
+    "name": "Rainwater Harvesting"
+  },
+  {
+    "num": 204,
+    "name": "Greywater Recycling"
+  },
+  {
+    "num": 205,
+    "name": "Drought Management"
+  },
+  {
+    "num": 206,
+    "name": "Flood Prevention"
+  },
+  {
+    "num": 207,
+    "name": "Earthquake Preparedness"
+  },
+  {
+    "num": 208,
+    "name": "Tsunami Warning Systems"
+  },
+  {
+    "num": 209,
+    "name": "Hurricane Tracking"
+  },
+  {
+    "num": 210,
+    "name": "Wildfire Prevention"
+  },
+  {
+    "num": 211,
+    "name": "Volcanic Activity Monitoring"
+  },
+  {
+    "num": 212,
+    "name": "Natural Disaster Relief"
+  },
+  {
+    "num": 213,
+    "name": "Emergency Response Systems"
+  },
+  {
+    "num": 214,
+    "name": "First Aid Training"
+  },
+  {
+    "num": 215,
+    "name": "CPR Education"
+  },
+  {
+    "num": 216,
+    "name": "Fire Safety"
+  },
+  {
+    "num": 217,
+    "name": "Home Security"
+  },
+  {
+    "num": 218,
+    "name": "Personal Safety"
+  },
+  {
+    "num": 219,
+    "name": "Self-Defense Training"
+  },
+  {
+    "num": 220,
+    "name": "Martial Arts Benefits"
+  },
+  {
+    "num": 221,
+    "name": "Yoga and Meditation"
+  },
+  {
+    "num": 222,
+    "name": "Mindfulness Practices"
+  },
+  {
+    "num": 223,
+    "name": "Sleep Quality"
+  },
+  {
+    "num": 224,
+    "name": "Nutrition Science"
+  },
+  {
+    "num": 225,
+    "name": "Dietary Supplements"
+  },
+  {
+    "num": 226,
+    "name": "Fitness Trends"
+  },
+  {
+    "num": 227,
+    "name": "Gym Culture"
+  },
+  {
+    "num": 228,
+    "name": "Home Workouts"
+  },
+  {
+    "num": 229,
+    "name": "Running and Jogging"
+  },
+  {
+    "num": 230,
+    "name": "Swimming Benefits"
+  },
+  {
+    "num": 231,
+    "name": "Cycling for Health"
+  },
+  {
+    "num": 232,
+    "name": "Team Sports"
+  },
+  {
+    "num": 233,
+    "name": "Individual Sports"
+  },
+  {
+    "num": 234,
+    "name": "Extreme Sports"
+  },
+  {
+    "num": 235,
+    "name": "Winter Sports"
+  },
+  {
+    "num": 236,
+    "name": "Water Sports"
+  },
+  {
+    "num": 237,
+    "name": "Olympic Games"
+  },
+  {
+    "num": 238,
+    "name": "Paralympic Games"
+  },
+  {
+    "num": 239,
+    "name": "Sports Psychology"
+  },
+  {
+    "num": 240,
+    "name": "Doping in Sports"
+  },
+  {
+    "num": 241,
+    "name": "Sports Injuries"
+  },
+  {
+    "num": 242,
+    "name": "Sports Medicine"
+  },
+  {
+    "num": 243,
+    "name": "Coaching Methods"
+  },
+  {
+    "num": 244,
+    "name": "Youth Sports Programs"
+  },
+  {
+    "num": 245,
+    "name": "Women in Sports"
+  },
+  {
+    "num": 246,
+    "name": "E-sports Growth"
+  },
+  {
+    "num": 247,
+    "name": "Fantasy Sports"
+  },
+  {
+    "num": 248,
+    "name": "Sports Broadcasting"
+  },
+  {
+    "num": 249,
+    "name": "Stadium Design"
+  },
+  {
+    "num": 250,
+    "name": "Sports Tourism"
+  },
+  {
+    "num": 251,
+    "name": "Pet Ownership"
+  },
+  {
+    "num": 252,
+    "name": "Animal Welfare"
+  },
+  {
+    "num": 253,
+    "name": "Zoo Ethics"
+  },
+  {
+    "num": 254,
+    "name": "Circus Animal Treatment"
+  },
+  {
+    "num": 255,
+    "name": "Hunting Regulations"
+  },
+  {
+    "num": 256,
+    "name": "Fishing Industry"
+  },
+  {
+    "num": 257,
+    "name": "Marine Conservation"
+  },
+  {
+    "num": 258,
+    "name": "Coral Reef Protection"
+  },
+  {
+    "num": 259,
+    "name": "Whale Conservation"
+  },
+  {
+    "num": 260,
+    "name": "Endangered Species"
+  },
+  {
+    "num": 261,
+    "name": "Invasive Species"
+  },
+  {
+    "num": 262,
+    "name": "Pest Control Methods"
+  },
+  {
+    "num": 263,
+    "name": "Beekeeping"
+  },
+  {
+    "num": 264,
+    "name": "Pollinator Protection"
+  },
+  {
+    "num": 265,
+    "name": "Forest Management"
+  },
+  {
+    "num": 266,
+    "name": "National Parks"
+  },
+  {
+    "num": 267,
+    "name": "Nature Reserves"
+  },
+  {
+    "num": 268,
+    "name": "Wetland Conservation"
+  },
+  {
+    "num": 269,
+    "name": "River Restoration"
+  },
+  {
+    "num": 270,
+    "name": "Lake Pollution"
+  },
+  {
+    "num": 271,
+    "name": "Groundwater Depletion"
+  },
+  {
+    "num": 272,
+    "name": "Soil Erosion"
+  },
+  {
+    "num": 273,
+    "name": "Land Degradation"
+  },
+  {
+    "num": 274,
+    "name": "Mining Impact"
+  },
+  {
+    "num": 275,
+    "name": "Oil Spills"
+  },
+  {
+    "num": 276,
+    "name": "Air Quality"
+  },
+  {
+    "num": 277,
+    "name": "Noise Pollution"
+  },
+  {
+    "num": 278,
+    "name": "Light Pollution"
+  },
+  {
+    "num": 279,
+    "name": "Electronic Waste"
+  },
+  {
+    "num": 280,
+    "name": "Battery Recycling"
+  },
+  {
+    "num": 281,
+    "name": "Textile Recycling"
+  },
+  {
+    "num": 282,
+    "name": "Paper Consumption"
+  },
+  {
+    "num": 283,
+    "name": "Packaging Reduction"
+  },
+  {
+    "num": 284,
+    "name": "Single-Use Plastics"
+  },
+  {
+    "num": 285,
+    "name": "Microplastics"
+  },
+  {
+    "num": 286,
+    "name": "Ocean Cleanup"
+  },
+  {
+    "num": 287,
+    "name": "Beach Conservation"
+  },
+  {
+    "num": 288,
+    "name": "Coastal Erosion"
+  },
+  {
+    "num": 289,
+    "name": "Sea Level Rise"
+  },
+  {
+    "num": 290,
+    "name": "Arctic Ice Melting"
+  },
+  {
+    "num": 291,
+    "name": "Antarctic Research"
+  },
+  {
+    "num": 292,
+    "name": "Climate Migration"
+  },
+  {
+    "num": 293,
+    "name": "Environmental Refugees"
+  },
+  {
+    "num": 294,
+    "name": "Green Jobs"
+  },
+  {
+    "num": 295,
+    "name": "Environmental Education"
+  },
+  {
+    "num": 296,
+    "name": "Citizen Science"
+  },
+  {
+    "num": 297,
+    "name": "Scientific Research Funding"
+  },
+  {
+    "num": 298,
+    "name": "Laboratory Safety"
+  },
+  {
+    "num": 299,
+    "name": "Research Ethics"
+  },
+  {
+    "num": 300,
+    "name": "Animal Testing"
+  },
+  {
+    "num": 301,
+    "name": "Clinical Trials"
+  },
+  {
+    "num": 302,
+    "name": "Drug Development"
+  },
+  {
+    "num": 303,
+    "name": "Pharmaceutical Industry"
+  },
+  {
+    "num": 304,
+    "name": "Generic Medicines"
+  },
+  {
+    "num": 305,
+    "name": "Medical Devices"
+  },
+  {
+    "num": 306,
+    "name": "Prosthetics Technology"
+  },
+  {
+    "num": 307,
+    "name": "Organ Transplantation"
+  },
+  {
+    "num": 308,
+    "name": "Blood Transfusion"
+  },
+  {
+    "num": 309,
+    "name": "Stem Cell Research"
+  },
+  {
+    "num": 310,
+    "name": "Gene Therapy"
+  },
+  {
+    "num": 311,
+    "name": "Personalized Medicine"
+  },
+  {
+    "num": 312,
+    "name": "Cancer Treatment"
+  },
+  {
+    "num": 313,
+    "name": "Heart Disease Prevention"
+  },
+  {
+    "num": 314,
+    "name": "Diabetes Management"
+  },
+  {
+    "num": 315,
+    "name": "Alzheimer's Research"
+  },
+  {
+    "num": 316,
+    "name": "Parkinson's Disease"
+  },
+  {
+    "num": 317,
+    "name": "Multiple Sclerosis"
+  },
+  {
+    "num": 318,
+    "name": "Rare Diseases"
+  },
+  {
+    "num": 319,
+    "name": "Infectious Diseases"
+  },
+  {
+    "num": 320,
+    "name": "Pandemic Preparedness"
+  },
+  {
+    "num": 321,
+    "name": "Quarantine Measures"
+  },
+  {
+    "num": 322,
+    "name": "Contact Tracing"
+  },
+  {
+    "num": 323,
+    "name": "Herd Immunity"
+  },
+  {
+    "num": 324,
+    "name": "Public Health Campaigns"
+  },
+  {
+    "num": 325,
+    "name": "Health Insurance"
+  },
+  {
+    "num": 326,
+    "name": "Hospital Management"
+  },
+  {
+    "num": 327,
+    "name": "Nursing Profession"
+  },
+  {
+    "num": 328,
+    "name": "Doctor Shortages"
+  },
+  {
+    "num": 329,
+    "name": "Medical Education"
+  },
+  {
+    "num": 330,
+    "name": "First Responders"
+  },
+  {
+    "num": 331,
+    "name": "Ambulance Services"
+  },
+  {
+    "num": 332,
+    "name": "Emergency Rooms"
+  },
+  {
+    "num": 333,
+    "name": "Intensive Care Units"
+  },
+  {
+    "num": 334,
+    "name": "Palliative Care"
+  },
+  {
+    "num": 335,
+    "name": "Hospice Services"
+  },
+  {
+    "num": 336,
+    "name": "End-of-Life Decisions"
+  },
+  {
+    "num": 337,
+    "name": "Euthanasia Debate"
+  },
+  {
+    "num": 338,
+    "name": "Assisted Suicide"
+  },
+  {
+    "num": 339,
+    "name": "Living Wills"
+  },
+  {
+    "num": 340,
+    "name": "Medical Records Privacy"
+  },
+  {
+    "num": 341,
+    "name": "Patient Rights"
+  },
+  {
+    "num": 342,
+    "name": "Medical Malpractice"
+  },
+  {
+    "num": 343,
+    "name": "Healthcare Costs"
+  },
+  {
+    "num": 344,
+    "name": "Preventive Healthcare"
+  },
+  {
+    "num": 345,
+    "name": "Health Screenings"
+  },
+  {
+    "num": 346,
+    "name": "Dental Care"
+  },
+  {
+    "num": 347,
+    "name": "Eye Care"
+  },
+  {
+    "num": 348,
+    "name": "Hearing Health"
+  },
+  {
+    "num": 349,
+    "name": "Skin Care"
+  },
+  {
+    "num": 350,
+    "name": "Hair Loss Treatment"
+  },
+  {
+    "num": 351,
+    "name": "Cosmetic Surgery"
+  },
+  {
+    "num": 352,
+    "name": "Body Image Issues"
+  },
+  {
+    "num": 353,
+    "name": "Eating Disorders"
+  },
+  {
+    "num": 354,
+    "name": "Depression Treatment"
+  },
+  {
+    "num": 355,
+    "name": "Anxiety Management"
+  },
+  {
+    "num": 356,
+    "name": "PTSD Support"
+  },
+  {
+    "num": 357,
+    "name": "Addiction Recovery"
+  },
+  {
+    "num": 358,
+    "name": "Rehabilitation Programs"
+  },
+  {
+    "num": 359,
+    "name": "Support Groups"
+  },
+  {
+    "num": 360,
+    "name": "Therapy Types"
+  },
+  {
+    "num": 361,
+    "name": "Counseling Services"
+  },
+  {
+    "num": 362,
+    "name": "Psychiatric Care"
+  },
+  {
+    "num": 363,
+    "name": "Child Psychology"
+  },
+  {
+    "num": 364,
+    "name": "Adolescent Development"
+  },
+  {
+    "num": 365,
+    "name": "Parenting Styles"
+  },
+  {
+    "num": 366,
+    "name": "Family Dynamics"
+  },
+  {
+    "num": 367,
+    "name": "Sibling Relationships"
+  },
+  {
+    "num": 368,
+    "name": "Grandparent Roles"
+  },
+  {
+    "num": 369,
+    "name": "Adoption Process"
+  },
+  {
+    "num": 370,
+    "name": "Foster Care System"
+  },
+  {
+    "num": 371,
+    "name": "Single Parenting"
+  },
+  {
+    "num": 372,
+    "name": "Co-Parenting"
+  },
+  {
+    "num": 373,
+    "name": "Blended Families"
+  },
+  {
+    "num": 374,
+    "name": "Divorce Effects"
+  },
+  {
+    "num": 375,
+    "name": "Marriage Counseling"
+  },
+  {
+    "num": 376,
+    "name": "Dating Culture"
+  },
+  {
+    "num": 377,
+    "name": "Online Dating"
+  },
+  {
+    "num": 378,
+    "name": "Long-Distance Relationships"
+  },
+  {
+    "num": 379,
+    "name": "Intercultural Relationships"
+  },
+  {
+    "num": 380,
+    "name": "Wedding Traditions"
+  },
+  {
+    "num": 381,
+    "name": "Honeymoon Destinations"
+  },
+  {
+    "num": 382,
+    "name": "Anniversary Celebrations"
+  },
+  {
+    "num": 383,
+    "name": "Birthday Traditions"
+  },
+  {
+    "num": 384,
+    "name": "Holiday Celebrations"
+  },
+  {
+    "num": 385,
+    "name": "Religious Festivals"
+  },
+  {
+    "num": 386,
+    "name": "Cultural Ceremonies"
+  },
+  {
+    "num": 387,
+    "name": "Funeral Customs"
+  },
+  {
+    "num": 388,
+    "name": "Grief Counseling"
+  },
+  {
+    "num": 389,
+    "name": "Memory Preservation"
+  },
+  {
+    "num": 390,
+    "name": "Photography History"
+  },
+  {
+    "num": 391,
+    "name": "Digital Photography"
+  },
+  {
+    "num": 392,
+    "name": "Video Production"
+  },
+  {
+    "num": 393,
+    "name": "Podcasting"
+  },
+  {
+    "num": 394,
+    "name": "Blogging"
+  },
+  {
+    "num": 395,
+    "name": "Content Creation"
+  },
+  {
+    "num": 396,
+    "name": "Social Media Management"
+  },
+  {
+    "num": 397,
+    "name": "Online Communities"
+  },
+  {
+    "num": 398,
+    "name": "Virtual Reality"
+  },
+  {
+    "num": 399,
+    "name": "Augmented Reality"
+  },
+  {
+    "num": 400,
+    "name": "Mixed Reality"
+  },
+  {
+    "num": 401,
+    "name": "Metaverse Concept"
+  },
+  {
+    "num": 402,
+    "name": "Digital Avatars"
+  },
+  {
+    "num": 403,
+    "name": "Online Gaming"
+  },
+  {
+    "num": 404,
+    "name": "Mobile Gaming"
+  },
+  {
+    "num": 405,
+    "name": "Console Gaming"
+  },
+  {
+    "num": 406,
+    "name": "Game Design"
+  },
+  {
+    "num": 407,
+    "name": "Animation Industry"
+  },
+  {
+    "num": 408,
+    "name": "Comic Books"
+  },
+  {
+    "num": 409,
+    "name": "Graphic Novels"
+  },
+  {
+    "num": 410,
+    "name": "Science Fiction"
+  },
+  {
+    "num": 411,
+    "name": "Fantasy Literature"
+  },
+  {
+    "num": 412,
+    "name": "Mystery Novels"
+  },
+  {
+    "num": 413,
+    "name": "Romance Fiction"
+  },
+  {
+    "num": 414,
+    "name": "Historical Fiction"
+  },
+  {
+    "num": 415,
+    "name": "Biography Writing"
+  },
+  {
+    "num": 416,
+    "name": "Autobiography"
+  },
+  {
+    "num": 417,
+    "name": "Poetry Appreciation"
+  },
+  {
+    "num": 418,
+    "name": "Short Story Writing"
+  },
+  {
+    "num": 419,
+    "name": "Novel Writing"
+  },
+  {
+    "num": 420,
+    "name": "Screenwriting"
+  },
+  {
+    "num": 421,
+    "name": "Playwriting"
+  },
+  {
+    "num": 422,
+    "name": "Book Publishing"
+  },
+  {
+    "num": 423,
+    "name": "Self-Publishing"
+  },
+  {
+    "num": 424,
+    "name": "Audiobooks"
+  },
+  {
+    "num": 425,
+    "name": "E-books"
+  },
+  {
+    "num": 426,
+    "name": "Library Services"
+  },
+  {
+    "num": 427,
+    "name": "Bookstores"
+  },
+  {
+    "num": 428,
+    "name": "Reading Habits"
+  },
+  {
+    "num": 429,
+    "name": "Speed Reading"
+  },
+  {
+    "num": 430,
+    "name": "Book Clubs"
+  },
+  {
+    "num": 431,
+    "name": "Literary Awards"
+  },
+  {
+    "num": 432,
+    "name": "Translation Services"
+  },
+  {
+    "num": 433,
+    "name": "Interpretation Skills"
+  },
+  {
+    "num": 434,
+    "name": "Sign Language"
+  },
+  {
+    "num": 435,
+    "name": "Braille System"
+  },
+  {
+    "num": 436,
+    "name": "Assistive Technology"
+  },
+  {
+    "num": 437,
+    "name": "Accessibility Design"
+  },
+  {
+    "num": 438,
+    "name": "Universal Design"
+  },
+  {
+    "num": 439,
+    "name": "Ergonomics"
+  },
+  {
+    "num": 440,
+    "name": "Workplace Design"
+  },
+  {
+    "num": 441,
+    "name": "Office Culture"
+  },
+  {
+    "num": 442,
+    "name": "Meeting Efficiency"
+  },
+  {
+    "num": 443,
+    "name": "Email Etiquette"
+  },
+  {
+    "num": 444,
+    "name": "Business Communication"
+  },
+  {
+    "num": 445,
+    "name": "Report Writing"
+  },
+  {
+    "num": 446,
+    "name": "Presentation Skills"
+  },
+  {
+    "num": 447,
+    "name": "Data Visualization"
+  },
+  {
+    "num": 448,
+    "name": "Infographics"
+  },
+  {
+    "num": 449,
+    "name": "Charts and Graphs"
+  },
+  {
+    "num": 450,
+    "name": "Statistical Analysis"
+  },
+  {
+    "num": 451,
+    "name": "Survey Design"
+  },
+  {
+    "num": 452,
+    "name": "Market Research"
+  },
+  {
+    "num": 453,
+    "name": "Consumer Behavior"
+  },
+  {
+    "num": 454,
+    "name": "Brand Management"
+  },
+  {
+    "num": 455,
+    "name": "Product Development"
+  },
+  {
+    "num": 456,
+    "name": "Quality Control"
+  },
+  {
+    "num": 457,
+    "name": "Supply Chain Management"
+  },
+  {
+    "num": 458,
+    "name": "Logistics"
+  },
+  {
+    "num": 459,
+    "name": "Inventory Management"
+  },
+  {
+    "num": 460,
+    "name": "Warehouse Operations"
+  },
+  {
+    "num": 461,
+    "name": "Shipping Industry"
+  },
+  {
+    "num": 462,
+    "name": "Port Management"
+  },
+  {
+    "num": 463,
+    "name": "Customs Procedures"
+  },
+  {
+    "num": 464,
+    "name": "Import and Export"
+  },
+  {
+    "num": 465,
+    "name": "Trade Agreements"
+  },
+  {
+    "num": 466,
+    "name": "Tariffs and Duties"
+  },
+  {
+    "num": 467,
+    "name": "Currency Exchange"
+  },
+  {
+    "num": 468,
+    "name": "Banking Services"
+  },
+  {
+    "num": 469,
+    "name": "Mobile Banking"
+  },
+  {
+    "num": 470,
+    "name": "Fintech Innovation"
+  },
+  {
+    "num": 471,
+    "name": "Payment Systems"
+  },
+  {
+    "num": 472,
+    "name": "Credit Cards"
+  },
+  {
+    "num": 473,
+    "name": "Debt Management"
+  },
+  {
+    "num": 474,
+    "name": "Loan Types"
+  },
+  {
+    "num": 475,
+    "name": "Mortgage Options"
+  },
+  {
+    "num": 476,
+    "name": "Investment Strategies"
+  },
+  {
+    "num": 477,
+    "name": "Bond Markets"
+  },
+  {
+    "num": 478,
+    "name": "Mutual Funds"
+  },
+  {
+    "num": 479,
+    "name": "Hedge Funds"
+  },
+  {
+    "num": 480,
+    "name": "Venture Capital"
+  },
+  {
+    "num": 481,
+    "name": "Angel Investing"
+  },
+  {
+    "num": 482,
+    "name": "Crowdfunding"
+  },
+  {
+    "num": 483,
+    "name": "Initial Public Offerings"
+  },
+  {
+    "num": 484,
+    "name": "Mergers and Acquisitions"
+  },
+  {
+    "num": 485,
+    "name": "Corporate Governance"
+  },
+  {
+    "num": 486,
+    "name": "Board of Directors"
+  },
+  {
+    "num": 487,
+    "name": "Shareholder Rights"
+  },
+  {
+    "num": 488,
+    "name": "Dividend Policies"
+  },
+  {
+    "num": 489,
+    "name": "Profit Sharing"
+  },
+  {
+    "num": 490,
+    "name": "Employee Stock Options"
+  },
+  {
+    "num": 491,
+    "name": "Performance Bonuses"
+  },
+  {
+    "num": 492,
+    "name": "Salary Negotiations"
+  },
+  {
+    "num": 493,
+    "name": "Job Interviews"
+  },
+  {
+    "num": 494,
+    "name": "Resume Writing"
+  },
+  {
+    "num": 495,
+    "name": "Cover Letters"
+  },
+  {
+    "num": 496,
+    "name": "LinkedIn Profiles"
+  },
+  {
+    "num": 497,
+    "name": "Professional Networking"
+  },
+  {
+    "num": 498,
+    "name": "Industry Conferences"
+  },
+  {
+    "num": 499,
+    "name": "Trade Shows"
+  },
+  {
+    "num": 500,
+    "name": "Career Fairs"
+  }
+]
